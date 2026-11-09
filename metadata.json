@@ -1,0 +1,8 @@
+{
+  "name": "Quiet Class - Quản Lý Trật Tự Lớp Học",
+  "description": "Ứng dụng web cho giáo viên theo dõi và quản lý độ ồn lớp học thời gian thực với 3 cấp độ Xanh - Vàng - Đỏ, cảnh báo giọng nói và bảng thi đua điểm số.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
